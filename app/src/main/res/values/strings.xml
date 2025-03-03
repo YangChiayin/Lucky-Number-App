@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chiayin_Yang_Assignment1</string>
+    <string name="welcome_to_lucky_number">Welcome to Lucky Number</string>
+    <string name="please_enter_your_name">Please Enter your Name</string>
+    <string name="wish_me_luck">Wish Me Luck</string>
+    <string name="dice">dice</string>
+    <string name="background">background</string>
+    <string name="share_my_lucky_number">Share my Lucky Number</string>
+</resources>

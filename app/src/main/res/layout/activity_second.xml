@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/background2"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/luckyNumberHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="xx's Luckey Number"
+        android:textColor="#FFFFFF"
+        android:textSize="34sp"
+        android:layout_marginBottom="150dp" />
+
+
+    <TextView
+        android:id="@+id/luckyNumberDisplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="000"
+        android:textSize="64sp"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="100dp" />
+
+    <Button
+        android:id="@+id/shareButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/share_my_lucky_number"
+        android:layout_marginTop="300dp" />
+
+</LinearLayout>

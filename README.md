@@ -1,9 +1,9 @@
 # Lucky Number App
-<img src="https://github.com/user-attachments/assets/35a4f11b-8d22-49b0-85f4-1c1b098fede4" width="500" />
-<img src="https://github.com/user-attachments/assets/01411cd5-2cad-46a6-96d7-d05451400b6b" width="500" />
-<img src="https://github.com/user-attachments/assets/cab70f3e-0249-4b7b-aeee-3a56af8dda9e" width="500" />
-<img src="https://github.com/user-attachments/assets/0bea5fe7-f17f-41c5-911e-14f94a9fdee4" width="500" />
-<img src="https://github.com/user-attachments/assets/00a0b7b6-adec-435e-b2d6-2ca20f4e3bff" width="500" />
+<img src="https://github.com/user-attachments/assets/35a4f11b-8d22-49b0-85f4-1c1b098fede4" width="300" />
+<img src="https://github.com/user-attachments/assets/01411cd5-2cad-46a6-96d7-d05451400b6b" width="300" />
+<img src="https://github.com/user-attachments/assets/cab70f3e-0249-4b7b-aeee-3a56af8dda9e" width="300" />
+<img src="https://github.com/user-attachments/assets/0bea5fe7-f17f-41c5-911e-14f94a9fdee4" width="300" />
+<img src="https://github.com/user-attachments/assets/00a0b7b6-adec-435e-b2d6-2ca20f4e3bff" width="300" />
 
 ## Overview
 Lucky Number App is an Android application designed to strengthen knowledge in using Intents and building high-quality Android applications. The app consists of two activities, where users enter their name, generate a lucky number, and share it with others.
